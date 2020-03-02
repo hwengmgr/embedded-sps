@@ -1,3 +1,0 @@
-[submodule "embedded-commonI2c"]
-	path = embedded-commonI2c
-	url = https://github.com/hwengmgr/embedded-common
